@@ -124,7 +124,7 @@ body{
 #meal{
     margin: 2.4rem 0;
 }
-.meal-item{
+.meal-item={
     border-radius: 1rem;
     -webkit-border-radius: 1rem;
     -moz-border-radius: 1rem;
