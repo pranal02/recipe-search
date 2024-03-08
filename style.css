@@ -64,7 +64,7 @@ body{
     text-align: center;
 
 
-    background-image: url("bg2.jpg"); 
+    background-image: url("bg2.jpg");
     background-color: black; /* Used if the image is unavailable */
    /* height: 500px; /* You must set a specified height */
     background-position: center; /* Center the image */
