@@ -7,8 +7,8 @@
 
 }
 :root{
-    --tenne-tawny: lightgreen;
-    --tenne-tawny-dark:green;
+    --tenne-tawny:green;
+    --tenne-tawny-dark:darkgreen;
 }
 body{
     font-weight: 300;
@@ -16,13 +16,7 @@ body{
     line-height: 1.6 ;
     font-family: 'Poppins', sans-serif;
 
-     /* background-image: url("food.jpg"); */
-    background-color: black; /* Used if the image is unavailable */
-   /* height: 500px; /* You must set a specified height */
-    background-position: center; /* Center the image */
-    background-repeat: no-repeat; /* Do not repeat the image */
-    background-size: cover; 
-    background-attachment: fixed;
+   
 }
 
 /*  */
@@ -36,8 +30,25 @@ body{
     opacity: 0.8;
 }
 .title{
-    font-size: 2rem;
+    font-size: 60px;
     margin-bottom: 1rem;
+    margin-top: 13rem;
+    color:#fff;
+}
+.title1{
+    font-size: 2rem;
+    margin-bottom: 3rem;
+    margin-top: 9rem;
+    color: #f0f0f0;
+}
+.mid{
+    color:#28a10a;
+    font-size: large;
+    font-weight: 400;
+}
+.mid cite{
+    color:#ede7e7;
+    font-size: small;
 }
 
 /*  */
@@ -53,7 +64,7 @@ body{
     text-align: center;
 
 
-    background-image: url("bg.jpg"); 
+    background-image: url("bg2.jpg"); 
     background-color: black; /* Used if the image is unavailable */
    /* height: 500px; /* You must set a specified height */
     background-position: center; /* Center the image */
@@ -108,7 +119,7 @@ body{
     background: var(--tenne-tawny-dark);
 }
 .meal-result{
-    margin-top: 4rem;
+    margin-top: 2rem;
 }
 #meal{
     margin: 2.4rem 0;
@@ -132,6 +143,7 @@ body{
 }
 .meal-name h3{
     font-size: 1.4rem;
+    color: #f0f0f0;
 }
 .recipe-btn{
     text-decoration: none;
