@@ -46,7 +46,7 @@ body{
 }
 .meal-wrapper{
     max-width: 1500px;
-    max-height: 1400px;
+   
     margin: 0 auto;
     padding: 2rem;
     background: #fff;
@@ -84,7 +84,7 @@ body{
     border: 1px solid var(--tenne-tawny);
     color: var(--tenne-tawny);
     border-top-left-radius: 2rem;
-    /*border-bottom-left-radius: 2rem;*/
+    
 }
 .search-control::placeholder{
     color: var(--tenne-tawny);
@@ -96,7 +96,7 @@ body{
     background: var(--tenne-tawny);
     color: #fff;
     border: none;
-    /*border-top-right-radius: 2rem;*/
+    
     border-bottom-right-radius: 2rem;
     transition: all 0.4s linear;
     -webkit-transition: all 0.4s linear;
@@ -120,7 +120,7 @@ body{
     -ms-border-radius: 1rem;
     -o-border-radius: 1rem;
     overflow: hidden;
-    box-shadow: 0 4px 21px -12px rgba(0, 0, 0, 0.79);
+    box-shadow: 0 10px 21px -10px rgba(0, 0, 0, 0.79);
     margin: 2rem 0;
 }
 .meal-img img{
