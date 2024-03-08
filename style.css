@@ -4,11 +4,11 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    
+
 }
 :root{
-    --tenne-tawny: #d65108;
-    --tenne-tawny-dark: #b54507;
+    --tenne-tawny: lightgreen;
+    --tenne-tawny-dark:green;
 }
 body{
     font-weight: 300;
