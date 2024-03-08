@@ -50,6 +50,15 @@ body{
     padding: 2rem;
     background: #fff;
     text-align: center;
+
+
+    background-image: url("food.jpg"); 
+    background-color: black; /* Used if the image is unavailable */
+   /* height: 500px; /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; 
+    background-attachment: fixed;
 }
 .meal-search{
     margin: 2rem 0;
