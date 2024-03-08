@@ -131,7 +131,7 @@ body{
     -ms-border-radius: 1rem;
     -o-border-radius: 1rem;
     overflow: hidden;
-    box-shadow: 0 10px 21px -10px rgba(0, 0, 0, 0.79);
+    box-shadow: 0 8px 20px -7px darkgreen;
     margin: 2rem 0;
 }
 .meal-img img{
